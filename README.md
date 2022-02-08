@@ -8,3 +8,5 @@ If you want to modify/play with/run the code for any reason:
 1) clone the repo,
 2) the entrypoint is in `bin/` 
 3) from the command line -> `$ dart run cli.dart`
+
+(Obviously, I'm learning if I need to create this. Please feel free to suggest edits where information is incorrect, missing, etc.)
